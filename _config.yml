@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jacob Curran-Sebastian"
-  avatar : "/assets/images/Profile_Picture.jpg"
+  avatar : "/assets/images/Profile_Photo.jpg"
   bio    : "Postdoc at the University of Copenhagen, interested in stochastic processes and infectious disease modelling."
   links:
     - label: "Twitter"
